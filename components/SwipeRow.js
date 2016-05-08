@@ -1,10 +1,9 @@
 'use strict';
-import React, {Component} from 'react';
+import React, {Component, PropTypes} from 'react';
 import {
 	Animated,
 	PanResponder,
 	Platform,
-	PropTypes,
 	StyleSheet,
 	TouchableOpacity,
 	View

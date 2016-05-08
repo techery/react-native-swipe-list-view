@@ -1,12 +1,7 @@
 'use strict';
 
-import React, {Component} from 'react';
-import {
-	ListView,
-	PropTypes,
-	Text,
-	View,
-} from 'react-native';
+import {Component, PropTypes} from 'react';
+import {ListView, Text, View} from 'react-native';
 
 import SwipeRow from './SwipeRow';
 
